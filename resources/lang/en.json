@@ -1,0 +1,25 @@
+{
+   "logo": "OnlineStudy",
+   "h6_home": "Online Study",
+   "h1_home" :"Online Test Preparation",
+   "btn_home":"Try Test",
+   "home_nav":"HOME",
+   "course_nav":"COURSES",
+   "about_nav":"ABOUT US",
+   "h1_c":"About Courses!",
+   "price":"Price",
+   "hours":"Hours",
+   "Teachers":"Teachers",
+   "no_t":"No teachers yet",
+   "no_s":"No students yet" ,
+   "Students":"Students",
+   "our_t":"Our Teachers ",
+   "sendAnswer":"Send Your Answer",
+   "name":"Name",
+   "surename":"Surname",
+   "email":"Email",
+   "photo":"photo of your work ",
+   "test":"Test"
+
+
+}
